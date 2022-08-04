@@ -1,0 +1,3 @@
+[submodule "nestjs-code-first"]
+	path = nestjs-code-first
+	url = https://github.com/Jeffr-K/nestjs-code-first.git
